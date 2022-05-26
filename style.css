@@ -1,0 +1,59 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    background: url(hack.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.container{
+    text-align: center;
+    position: relative;
+}
+.container h2{
+    margin-top: 70px;
+    text-align: center;
+    color:#00FF0D;
+}
+.input-container{
+    margin-top: 20px;
+}
+.input-container button, input{
+    height: 30px;
+}
+.input-container input{
+    font-family: 'Press Start 2P',cursive;
+}
+#addTask{
+font-family: 'Press Start 2P',cursive;
+}
+#Task{
+    font-family: 'Press Start 2P',cursive;
+    }
+#removeTask{
+    font-family: 'Press Start 2P',cursive;
+}
+#removeAllTask{
+    font-family: 'Press Start 2P',cursive;
+}
+#explains{
+    font-family: 'Press Start 2P',cursive;
+}
+#lists-container{
+    margin: 30px auto 0 auto;
+  
+    width: 700px;
+    color:#00FF0D;
+}
+#todo-list li{
+    padding: 7px;
+}
+#copyright{
+    color: #00FF0D;
+    position: absolute;
+    bottom: 0;
+    margin: 0 auto 15px 320px;
+    font-size: small;
+    
+}
